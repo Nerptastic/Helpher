@@ -21,6 +21,7 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": [
+    "tailwind.config.js",
     "vite.config.ts",
     ".eslintrc.cjs",
     "src"
