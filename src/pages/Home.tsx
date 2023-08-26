@@ -1,8 +1,14 @@
+import HeroSection from '../components/HeroSection';
+import ResourceSection from '../components/ResourceSection';
+import ContributeSection from '../components/ContributeSection';
+
 function Home() {
   return (
-    <h1 className="text-2xl text-primary-100 font-bold underline">
-      Hello World
-    </h1>
+    <>
+      <HeroSection />
+      <ResourceSection />
+      <ContributeSection />
+    </>
   );
 }
 
