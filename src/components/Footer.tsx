@@ -6,7 +6,7 @@ function Footer() {
       <div className="mx-auto max-w-screen-xl">
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
-            <a href="https://helpher.io" className="flex items-center">
+            <a href="/" className="flex items-center">
               <img src={helpHerLogo} className="mr-3 h-8" alt="HelpHer Logo" />
               <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
                 HelpHer
@@ -28,7 +28,7 @@ function Footer() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://google.com" className="hover:underline">
+                  <a href="/" className="hover:underline">
                     Discord
                   </a>
                 </li>
@@ -40,12 +40,12 @@ function Footer() {
               </h2>
               <ul className="text-gray-600 dark:text-gray-400">
                 <li className="mb-4">
-                  <a href="https://google.com" className="hover:underline">
+                  <a href="/" className="hover:underline">
                     Privacy Policy
                   </a>
                 </li>
                 <li>
-                  <a href="https://google.com" className="hover:underline">
+                  <a href="/" className="hover:underline">
                     Terms &amp; Conditions
                   </a>
                 </li>
@@ -64,7 +64,7 @@ function Footer() {
           </span>
           <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
             <a
-              href="https://google.com"
+              href="/"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
             >
               <svg
@@ -81,7 +81,7 @@ function Footer() {
               </svg>
             </a>
             <a
-              href="https://google.com"
+              href="/"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
             >
               <svg
@@ -94,7 +94,7 @@ function Footer() {
               </svg>
             </a>
             <a
-              href="https://google.com"
+              href="/"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
             >
               <svg
